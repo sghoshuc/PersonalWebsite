@@ -16,3 +16,12 @@
     - Yash Patel
     - Takafumi N. Yamaguchi
     - Paul C. Boutros
+- name: "My paper"
+  url: https://www.biorxiv.org/content/10.1101/2024.10.31.621401v1
+  featured: true
+  authors:
+    - Jieun Oh
+    - Jaron Arbet
+    - Yash Patel
+    - Takafumi N. Yamaguchi
+    - Paul C. Boutros
